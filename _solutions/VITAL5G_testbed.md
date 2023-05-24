@@ -4,7 +4,7 @@ name: Testing and Evaluating Sophisticated information and communication Technol
 testbed_url: https://
 provider_logo: Logos/VITAL5G-logo.webp
 city_country: Galati, Romania
-domains:Transport
+domains: Transport
 use-cases: use-cases supported
 contact: robert.kecs@beia.ro; robikecs1234@gmail.com; robert.florescu@beia.ro
 license: type of licensing, for instance, open, MIT, Eclipse. If there are IPRs, please state so.
