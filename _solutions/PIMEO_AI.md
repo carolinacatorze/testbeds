@@ -1,7 +1,7 @@
 ---
 short_name: PIMEO AI
 name: PIMEO AI Testbed
-testbed_url: https://grafana.beia-telemetrie.ro/d/L-IyHc77z/pomicola-smart-water-xtreme-water-quality-data?orgId=13&from=1670221993320&to=1670243593320 (user and pass: pomicola)
+testbed_url: https://grafana.beia-telemetrie.ro/d/L-IyHc77z/pomicola-smart-water-xtreme-water-quality-data?orgId=13&from=1670221993320&to=1670243593320
 provider_logo: logos/yourlogo.png
 city_country: Bucharest, Romania
 domains: Water quality
