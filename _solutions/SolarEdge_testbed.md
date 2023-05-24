@@ -14,6 +14,7 @@ description: We are already seeing the large scale implementation of Photovoltai
 descriptionimage: -
 concept: -
 technology: MQTT, IoT, Renewable Energy, Energy Efficiency, InfluxDB
-hardware: Photovoltaic (PV) Cells, inverters, 
-software: Grafana, Solar Edge, Java, API,
+hardware: Photovoltaic (PV) Cells, inverters
+software: Grafana, Solar Edge, Java, API
+
 ---
