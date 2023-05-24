@@ -15,4 +15,5 @@ concept: Access to data from distributed network of sensors, access to living la
 technology: IoT, Edge computing, HPC, Machine Learning, Deep Learning, Big Data, Cloud Computing, AI, Edge Computing, Virtual Reality, Augmented Reality
 hardware: Sensor infrastructure; automatic air quality testing stations; Agrometeo stations; smart metering monitoring equipment; robotics platforms and arms; cameras. 42 camera motion capture kit, Grass valley rio kit, pablo neo panel, sony bvm-x300 OLED monitors, phabrix rx500 analyzer (rasterizer), 24-speaker ambisonic installation, scanners (e.g., Arri Scan)
 software: Access to the PSNC computing infrastructure and DataCenter (PSNC is the major HPC and DataCenter in Poland) services and software stacks for AI/ML/DL, BigData, etc.
+
 ---
