@@ -10,7 +10,7 @@ contact: robert.florescu@beia.ro
 license: 
 partner_access: local and remote, based on a specific agreement.
 testbed_stage: deployed testbed
-description: The increased computational complexity of decision making in extensive smart grid networks and limited 
+description: The increased computational complexity of decision making in extensive smart grid networks and limited performance 
 concept: key technological blocks supported 
 technology: MQTT, IoT, Blockchain
 hardware: Smart Meters, Inverters, Photvoltaic cells, Electrical grid infrastructure, FIDO
