@@ -4,7 +4,7 @@ name:
 testbed_url: 
 provider_logo: Logos/SAFECARE-logo.webp
 city_country: Romania
-domains:Energy
+domains: Energy
 use-cases: use-cases supported
 contact: robert.kecs@beia.ro; robikecs1234@gmail.com; robert.florescu@beia.ro
 license: type of licensing, for instance, open, MIT, Eclipse. If there are IPRs, please state so.
