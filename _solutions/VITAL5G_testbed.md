@@ -14,4 +14,5 @@ description: The VITAL-5G project plans to showcase the added-value of 5G connec
 technology: MQTT, IoT, 5G
 hardware: Data loggers, 5G tranceivers, Video, AIS.
 software: MQTT, JS, Python,  C/C++
+
 ---
