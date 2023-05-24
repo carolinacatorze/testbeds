@@ -11,8 +11,6 @@ license: Open
 partner_access: local(operators can come and provide installation, maintenance) and remote (through the dashboard), based on agreement 
 testbed_stage: deployed testbed
 description: We are already seeing the large scale implementation of Photovoltaic cell implementation in suburban areas where single-family housing is the norm. A unified way of visualising the energy production in real time is an ideal step forward. The application can provide a histogram of energy generation, so the users can determine which PV cells are more efficient and what during which months there will be no need to draw energy from the electric grid
-descriptionimage: -
-concept: -
 technology: MQTT, IoT, Renewable Energy, Energy Efficiency, InfluxDB
 hardware: Photovoltaic (PV) Cells, inverters
 software: Grafana, Solar Edge, Java, API
