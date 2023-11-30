@@ -4,7 +4,7 @@ name: Ubiwhere's Digital Nervous System Testbed
 testbed_url: https://testbed.ubiwhere.com/en/
 provider_logo: logos/ubiwhere.png
 city_country: Aveiro, Portugal
-domains: Smart Cities, Mobility, Telecommunications, Smart Tourism, Blue economy, TICE, Health, Energy, Industry, Construction
+domains: Smart Cities, Mobility, Telecom, Smart Tourism, Blue Economy, ICT, Health, Energy, Industry, Construction
 use-cases: Awareness of VRUs in potentially dangerous situations, Intelligent and dynamic video caching, Object Detection in Video Streams (animals, people, cars, etc.), Collision risk warning, Monitoring dashboards for food production and smart parking scenarios, EV charging integration in street light poles, etc.
 contact: Ubiwhere DNS Testbed Team, dnstestbed@ubiwhere.com
 license: IPR owned by Ubiwhere
