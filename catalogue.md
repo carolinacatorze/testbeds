@@ -24,7 +24,7 @@ title: AIOTI Testbeds Portfolio
 Browse the solutions provided by AIOTI members in the table.
 
 
-### AIOTI IG Testbeds Catalogue
+
 
 <table id="catalogue" class="display" style="width: 1200px">
 	<thead>
