@@ -21,7 +21,7 @@ title: AIOTI Testbeds Portfolio
       </script>
   </head>
 
-Browse the solutions provided by AIOTI members in the table.
+Browse the solutions provided by AIOTI members below.
 
 
 
