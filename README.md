@@ -1,10 +1,10 @@
 ## AIOTI Testbeds Portfolio
 
-The focus of the **[AIOTI](https://aioti.eu) [WG Testbeds](https://aioti.eu/about-us/our-groups/testbeds/)** is to provide a set of testbed descriptions based on a specific format to contribute to a coordinated view on testbeds derived from content provided by AIOTI community.
+The focus of the **[AIOTI](https://aioti.eu) [WG Testing and Experimentation Environments](https://aioti.eu/about-us/our-groups/testbeds/)** is to provide a set of testbed descriptions based on a specific format to contribute to a coordinated view on testbeds derived from content provided by AIOTI community.
 
-The main goal of the catalogue is to act as a dissemination tool towards other AIOTI groups in particular vertical ones and to assist in the development of joint work in use-case demonstration and new testbed development.
+The main goal of the catalogue is to act as a dissemination tool for other AIOTI groups, particularly vertical ones, and to assist in the development of joint work in use-case demonstration and new testbed development.
 
-Reference deliverables of the group can be found in AIOTI, [here](https://aioti.eu/resources/testbeds-resources/)
+Reference deliverables of the group can be found in AIOTI [here](https://aioti.eu/resources/testbeds-resources/)
 
 
 
