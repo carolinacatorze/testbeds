@@ -5,7 +5,7 @@ plugins:
 - jekyll-coffeescript
 
 title: AIOTI WG Testbeds
-description: Catalogue of IoT Solutions focused on IoT Testbeds
+description: Catalogue of IoT and Edge Computing Solutions focused on IoT and Edge Computing Testbeds
 
 github:
   is_project_page: false
